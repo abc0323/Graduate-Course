@@ -1,4 +1,3 @@
-# KoreaUniv
+# IME654 Business Analytics
 
-고려대학교 산업경영공학부 석사과정
-과제를 위한 Repository
+비즈니스애널릭틱스 과제 공간
