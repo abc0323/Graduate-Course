@@ -1,3 +1,3 @@
-# IME654 Business Analytics
-
-비즈니스애널릭틱스 과제 공간
+# 대학원 과정 공간
+1. [IME654]BUSINESS_ANALYTICS
+  - 2020년 가을학기
